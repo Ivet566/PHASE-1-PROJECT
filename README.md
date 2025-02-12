@@ -54,7 +54,7 @@ INSIGHTS
 
 -Further research be done on the relation between the Engine type and accident occurrence.
 
-The interactive dashboard is in this link, https://public.tableau.com/authoring/AVIATIONACCIDENTDATA/Story1#1.
+The interactive dashboard is in this link, https://public.tableau.com/app/profile/ivet.buyaki/viz/AVIATIONACCIDENTDATA/Story1.
 
 
 
